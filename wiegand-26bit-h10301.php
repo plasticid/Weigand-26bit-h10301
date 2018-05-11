@@ -91,4 +91,3 @@ echo "26 bit number hex: ".dechex(bindec($bits))."\n";
 //echo "32 bit number hex: ".dechex(bindec($bits32))."\n";
 echo "\n";
 ?>
-y:wiegand z$
